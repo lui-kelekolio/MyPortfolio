@@ -1,0 +1,19 @@
+1. Build my portfolio
+    - creating folders
+    - adding files
+    - connecting files
+
+2. Navbar
+    - 2 links and a name
+
+3. Portfolio tiem grid
+    - images
+    - titles
+    - descriptions
+    - animations
+    - javascript
+
+4. About page
+    - images
+    - split column layout
+    - content
