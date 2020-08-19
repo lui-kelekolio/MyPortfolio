@@ -94,6 +94,7 @@ body {
 .logo-wrapper img {
     width:50%;
     margin-bottom: 20px;
+    margin-left: 5px;
 }
 
 
@@ -136,4 +137,20 @@ body {
 
 .photo {
     border-radius: 100%;
+}
+
+
+
+/* website profile */ 
+
+
+.profile {
+    z-index: -1;
+}
+
+.hero-image-wrapper {
+
+    width: 100%;
+    opacity: 70%; 
+    position: relative;
 }
